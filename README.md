@@ -8,7 +8,7 @@ It store the intial joke in local storage and fetch extra joke when I request to
 It has joke UPVOTE and DOWNVOTE system and show Jokes in a sorted order non increasing order of their upvote .
 
 
-npm start
+# npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
