@@ -15,7 +15,7 @@ Open http://localhost:3000 to view it in the browser.
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1XD8uh0hKwXssg_TuJW0uZcRI3pveFFf8/view?usp=sharing" width="350" title="hover text">
-  <img src="https://drive.google.com/file/d/1WxeoW0up533DLp_OepZoYSruPNex5RLr/view?usp=sharing" width="350" alt="accessibility text">
-</p>
+![bn](https://user-images.githubusercontent.com/84314022/191697972-c507d008-9460-49de-be30-2a872f44f215.png)
+
+
+![bn2](https://user-images.githubusercontent.com/84314022/191698021-3e4d4147-4b89-46ff-b6b2-48e1d2255da3.png)
