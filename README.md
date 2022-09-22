@@ -17,7 +17,7 @@ You will also see any lint errors in the console.
 
 ![bn](https://user-images.githubusercontent.com/84314022/191697972-c507d008-9460-49de-be30-2a872f44f215.png)
 
-Displays new jokes after fetching the data from the API and storing it in the local storage.
+Displays new jokes after fetching the data from the API and storing it in the local storage.<br>
 After Upvoting a joke it sorts the jokes in decreasing order of upvotes.
 
 
