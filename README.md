@@ -14,3 +14,8 @@ Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
+
+<p align="center">
+  <img src="https://drive.google.com/file/d/1XD8uh0hKwXssg_TuJW0uZcRI3pveFFf8/view?usp=sharing" width="350" title="hover text">
+  <img src="https://drive.google.com/file/d/1WxeoW0up533DLp_OepZoYSruPNex5RLr/view?usp=sharing" width="350" alt="accessibility text">
+</p>
